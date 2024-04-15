@@ -1,2 +1,2 @@
-# Repositorio para practircar git pull (de remoto a local)
+# Repositorio para practircar git pull (freeCodeCamp)
 probando git pull practicando
